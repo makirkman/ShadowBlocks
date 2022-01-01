@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slickLibrary">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/max/Programs/slick-libraries/Jar Files/jinput.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/max/Programs/slick-libraries/Jar Files/jogg.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/max/Programs/slick-libraries/Jar Files/jorbis.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/max/Programs/slick-libraries/Jar Files/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/max/Programs/slick-libraries/Jar Files/slick.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/max/Programs/slick-libraries/OSX"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
